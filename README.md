@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravsinha30&label=Profile%20views&color=0e75b6&style=flat" alt="sauravsinha30" /> </p>
 
+<h1><a href="https://sauravsinha.netlify.app/" target="_blank">Portfolio</a></h1>
+
 - 📫 How to reach me **sinhasaurav4455@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
