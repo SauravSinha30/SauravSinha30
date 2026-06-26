@@ -23,4 +23,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravsinha30&show_icons=true&locale=en" alt="sauravsinha30" /></p>
 
+<!---LeetCode Stats--->
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SauravSinha4455?theme=dark&font=Girassol&ext=heatmap" />
+</div>
+
+
 <!---<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravsinha30" alt="sauravsinha30"></p>-->
